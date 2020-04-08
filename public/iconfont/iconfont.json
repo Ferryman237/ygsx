@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10330968",
+      "name": "film",
+      "font_class": "film",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    }
+  ]
+}
